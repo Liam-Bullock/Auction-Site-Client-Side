@@ -1,0 +1,85 @@
+/*Main Page*/
+html, body {
+  background-color: #B3E8E5 !important;
+}
+h4{
+  font-family:Serif;
+}
+h1 {
+  font-family: Serif;
+  font-weight: bold;
+  text-align: center;
+}
+#mainTitle {
+  background-color: #B3E8E5;
+}
+
+
+/*Register Page*/
+#previewImage {
+  width:200px;
+  height: 150px;
+}
+#registerBox {
+  margin: auto;
+  width:40%;
+  display: flex;
+}
+.inputReg{
+  background-color: white;
+}
+
+/*Login Page*/
+/*#loginBox {*/
+/*  margin: auto;*/
+/*  width:30%;*/
+/*}*/
+
+/*#hyperlink {*/
+/*  padding: 5%;*/
+/*}*/
+/*.inputLog{*/
+/*  background-color: white;*/
+/*}*/
+
+/*Edit Profile page*/
+#default-image {
+  width: 250px;
+  height: 180px;
+  padding-bottom: 20px;
+  justify-content: center;
+}
+
+.inputUpdate{
+  background-color: white;
+  padding: 20px;
+}
+
+.update {
+  padding: 10px;
+}
+
+/* Profile page*/
+#User-Profile{
+  margin:auto;
+}
+#Profile-page{
+  height:200px;
+}
+
+
+
+#bidContent{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width:150px;
+  justify-content: space-between;
+}
+
+
+
+/* Auction List Page*/
+#Search-form {
+  padding-bottom: 16px;
+}
